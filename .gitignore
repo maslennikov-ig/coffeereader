@@ -1,5 +1,7 @@
 # MCP configuration (contains sensitive tokens)
 .mcp.json
+mcp.json
+*.mcp.json
 
 # Claude settings
 .claude/
